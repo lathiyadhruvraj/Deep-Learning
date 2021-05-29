@@ -1,0 +1,3 @@
+This Natural Images Dataset contains 8 types of Images of different sizes:
+train_set, validation_set is combination of all those images into 80-20 
+and of same size (150, 100, 3)
